@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pat Bata
+- 👋 Hi, I’m Patricia Bata, but you can call me Pat!
 - 👀 I’m interested in machine learning methods such as NNs and NLP.
 - 🌱 I’m currently learning creating APIs using dockers and kubernetes.
 - 💞️ I’m looking to collaborate on research projects related healthcare and sustainability!
